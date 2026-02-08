@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Cool With You",
+  "base_artist": "NewJeans",
+  "createdAt": "2026-02-08T13:43:53.385923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somewhere Cool With You",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/01_Somewhere_Cool_With_You_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cool With You",
+      "artist": "Jennifer Love Hewitt",
+      "has_synced": true,
+      "path": "select/02_Cool_With_You_Jennifer_Love_Hewitt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cool with You",
+      "artist": "Her's",
+      "has_synced": true,
+      "path": "select/03_Cool_with_You_Her's.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cool with You (LP Version)",
+      "artist": "Jennifer Love Hewitt",
+      "has_synced": true,
+      "path": "select/04_Cool_with_You_(LP_Version)_Jennifer_Love_Hewitt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cool With You",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/05_Cool_With_You_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cool With You",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/06_Cool_With_You_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If It's Cool With You, I'm Cool With Being Through",
+      "artist": "This Wild Life",
+      "has_synced": true,
+      "path": "select/07_If_It's_Cool_With_You,_I'm_Cool_With_Being_Through_This_Wild_Life.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cool With You",
+      "artist": "Nina",
+      "has_synced": true,
+      "path": "select/08_Cool_With_You_Nina.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cool with You (Live)",
+      "artist": "Nina",
+      "has_synced": true,
+      "path": "select/09_Cool_with_You_(Live)_Nina.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cool With You",
+      "artist": "Her's",
+      "has_synced": true,
+      "path": "select/10_Cool_With_You_Her's.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cool with You",
+      "artist": "Her's",
+      "has_synced": true,
+      "path": "select/11_Cool_with_You_Her's.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cool With You",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/12_Cool_With_You_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cool With You",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/13_Cool_With_You_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cool With You",
+      "artist": "New Jeans",
+      "has_synced": true,
+      "path": "select/14_Cool_With_You_New_Jeans.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cool With You",
+      "artist": "Sonny Alven",
+      "has_synced": false,
+      "path": "select/15_Cool_With_You_Sonny_Alven.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cool with It",
+      "artist": "Liz",
+      "has_synced": true,
+      "path": "select/16_Cool_with_It_Liz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Is It 'Cos I'm Cool (with Emma Lanford)",
+      "artist": "Mousse T.",
+      "has_synced": false,
+      "path": "select/17_Is_It_'Cos_I'm_Cool_(with_Emma_Lanford)_Mousse_T..txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Is It 'Cos I'm Cool? (with Emma Lanford)",
+      "artist": "Mousse T.",
+      "has_synced": false,
+      "path": "select/18_Is_It_'Cos_I'm_Cool__(with_Emma_Lanford)_Mousse_T..txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'm Cool With That",
+      "artist": "T-Pain",
+      "has_synced": true,
+      "path": "select/19_I'm_Cool_With_That_T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I'm Cool With That",
+      "artist": "T-Pain",
+      "has_synced": true,
+      "path": "select/20_I'm_Cool_With_That_T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Head Is A Flame (Cool With It)",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/21_Head_Is_A_Flame_(Cool_With_It)_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Whatever's Cool With Me",
+      "artist": "Dinosaur Jr.",
+      "has_synced": true,
+      "path": "select/22_Whatever's_Cool_With_Me_Dinosaur_Jr..lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Whatever's Cool With Me - 2019 Remaster",
+      "artist": "Dinosaur Jr.",
+      "has_synced": false,
+      "path": "select/23_Whatever's_Cool_With_Me_-_2019_Remaster_Dinosaur_Jr..txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Whatever's Cool With Me (2019 Remaster)",
+      "artist": "Dinosaur Jr.",
+      "has_synced": false,
+      "path": "select/24_Whatever's_Cool_With_Me_(2019_Remaster)_Dinosaur_Jr..txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Is It 'Cos I'm Cool? (with Emma Lanford)",
+      "artist": "Mousse T. feat. Emma Lanford",
+      "has_synced": false,
+      "path": "select/25_Is_It_'Cos_I'm_Cool__(with_Emma_Lanford)_Mousse_T._feat._Emma_Lanford.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Cool with Me",
+      "artist": "Hot Rod Circuit",
+      "has_synced": true,
+      "path": "select/26_Cool_with_Me_Hot_Rod_Circuit.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Cool With Me (feat. M1llionz)",
+      "artist": "dutchavelli feat. M1llionz",
+      "has_synced": true,
+      "path": "select/27_Cool_With_Me_(feat._M1llionz)_dutchavelli_feat._M1llionz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cool With You",
+      "artist": "NewJeans",
+      "has_synced": false,
+      "path": "select/pl_01_Cool_With_You_NewJeans.txt"
+    }
+  ]
+}
